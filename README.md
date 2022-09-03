@@ -12,7 +12,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 -->
 
 
-- 🔭 I’m currently working on **the IoT Squad at Blueshift Brazil**
+- 🔭 I’m currently working on **the IoT Squad at <a href="https://blueshift.com.br"> Blueshift Brazil** </a> </p>
 
 - 🌱 I’m currently learning **Python, SQL, Machine Learning and Azure Cloud**
 
