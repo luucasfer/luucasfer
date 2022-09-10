@@ -38,7 +38,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 <p align="left">
 <a href="https://linkedin.com/in/lucasferreiraeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasferreiraeng" height="30" width="40" /></a>
 <a href="https://medium.com/@luucasfer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@luucasfer" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ferreiralucas_e1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ferreiralucas_e1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/luucasfer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="luucasfer" height="30" width="40" /></a>
 </p>
 <a href="https://www.codewars.com/users/luucasfer" target="blank"><img align="center" src="https://www.codewars.com/users/luucasfer/badges/large" alt="luucasfer" height="50" width="300" /></a>
 </p>
