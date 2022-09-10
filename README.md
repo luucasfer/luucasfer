@@ -16,11 +16,6 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 - 🌱 I’m currently learning **Python, SQL, Machine Learning and Azure Cloud**
 
-- 📝 I write sometimes articles on [https://medium.com/@luucasfer](https://medium.com/@luucasfer)
-
-- 📫 How to reach me **ferreiralucas.eng@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/lucasferreiraeng/](https://www.linkedin.com/in/lucasferreiraeng/)
 
 
 
