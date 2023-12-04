@@ -13,7 +13,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 - 🔭 I’m currently working on **the IoT Squad at <a href="https://blueshift.com.br"> Blueshift Brazil** </a> </p>
 
-- 🌱 Developing with **Python, SQL, noSQL, Azure Cloud and learning about the backend world**
+- 🌱 Developing with **Python, C#, Azure Cloud and learning about the backend world**
 
 <p> <br> </p>
 
